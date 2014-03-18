@@ -1,0 +1,184 @@
+General Data
+
+http://californiawatch.org/datacenter
+http://openstates.org/
+http://censusreporter.org/
+http://stat-computing.org/dataexpo/
+http://beta.censusreporter.org/
+http://www.naturalearthdata.com/downloads/
+http://databank.worldbank.org/data/databases.aspx
+http://data.worldbank.org/
+http://datacatalog.worldbank.org/
+http://multimedia.journalism.berkeley.edu/tutorials/databases-of-statistical-information/census/ -- Has list
+http://www.irs.gov/uac/SOI-Tax-Stats-County-to-County-Migration-Data-Files -- US County-to-County migration
+http://www.irs.gov/uac/SOI-Tax-Stats-State-to-State-Migration-Database-Files -- US State-to-State migration
+http://www.dof.ca.gov/research/demographic/ -- Cali Dept of Finance demographics
+http://www.bayareacensus.ca.gov/ -- Bay Area Census
+http://data.police.uk/
+http://www.coopercenter.org/demographics
+https://data.cityofnewyork.us/ -- City of NY
+http://www.nyc.gov/html/dof/html/home/home.shtml -- NYC Finance
+http://www.govtrack.us/developers
+==> https://github.com/unitedstates/congress
+==> https://npmjs.org/package/govtrack-node
+==> http://www.govtrack.us/developers/data
+==> http://gis.govtrack.us/map/demo/cd-2012/
+
+
+http://www.cdc.gov/nchs/data/hus/hus11.pdf
+http://www.cdc.gov/nchs/data/hus/hus12.pdf
+http://www.businessinsider.com/maps-that-explain-the-world-2013-2
+http://quickfacts.census.gov/qfd/index.html
+http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml
+http://www.census.gov/2010census/data/
+http://www.census.gov/people/
+http://www.dot.gov/
+http://www.rita.dot.gov/bts/
+http://www.nami.org/
+http://www.tacreports.org/bedstudy
+http://www.cdc.gov/
+https://explore.data.gov/browse?limitTo=datasets&sortBy=relevance&utf8=%E2%9C%93&q=unemployment
+http://catalog.data.gov/dataset?ext_prev_extent=-139.21874999999997%2C8.754794702435605%2C-61.87499999999999%2C61.77312286453148&tags=us&metadata_type=geospatial&res_format=HTML&q=&ext_bbox=&tags=photography&sort=views_recent+desc&ext_location=&res_format=XML
+
+
+http://www.bread.org/hunger/us/facts.html
+http://gsa.github.io/federal-open-source-repos/
+https://github.com/project-open-data/
+https://github.com/CMSgov/healthcare.gov
+http://usdepartmentoflabor.github.io/iOS-Sample-App/
+https://github.com/USDepartmentofLabor/LaborStats-iOS
+http://www.gemconsortium.org/docs/cat/37/data
+http://www.freebase.com/
+http://datahub.io/
+http://www.socrata.com/open-data-portal/
+http://www.who.int/research/en/
+http://www.junar.com/
+http://www.weatherbase.com/ -- PAID
+http://www.theguardian.com/news/datablog
+http://blogs.msdn.com/b/shishirs/archive/2012/03/17/some-excellent-open-data-sources.aspx
+http://www.infochimps.com/datasets
+http://www.cdc.gov/nchs/surveys.htm
+http://www.cdc.gov/nchs/healthy_people.htm
+http://www.infochimps.com/datasets/nasdaq-exchange-daily-1970-2010-open-close-high-low-and-volume -- NASDAQ 1970-2010
+http://www.infochimps.com/datasets/nyse-daily-1970-2010-open-close-high-low-and-volume -- NYSE 1970-2010
+http://www.infochimps.com/datasets/amex-exchange-daily-1970-2010-open-close-high-low-and-volume -- AMEX 1970-2010
+http://aws.amazon.com/datasets/2759 -- Daily Global Weather Measurements 1929-2009
+http://aws.amazon.com/datasets/41740 -- web crawl corpus
+http://aws.amazon.com/datasets/8172056142375670 -- Google Books ngrams
+http://aws.amazon.com/datasets/5621954952932508 -- Marvel Universe social graph (if Marvel Superheroes were friends on Facebook)
+http://aws.amazon.com/datasets/2844 -- OpenStreetMap rendering database
+http://aws.amazon.com/datasets/2506 -- Wikipedia XML Data
+http://www.factual.com/data/t/places -- 65 million points of interest
+http://www.factual.com/products/restaurants -- 1.2M US restaurant listings with 13 biz attires and 43 resto-specific attribs
+http://www.businessinsider.com/kent-brewster-analyzes-atherton-police-blotter-2013-8
+http://readwrite.com/2008/04/09/where_to_find_open_data_on_the#awesm=~odVnSl4tpX2cGx
+http://www.opendatafoundation.org/
+http://www.odata.org/
+http://ckan.org/
+http://data.worldbank.org/
+http://chartsbin.com/about/apply
+http://chartsbin.com/graph/food_and_agriculture
+http://www.good.is/posts/infographic-the-100-000-idea -- HUNGER
+http://www.minnpost.com/political-agenda/2013/08/hunger-report-says-thousands-minnesota-families-struggle-find-enough-food
+http://www.good.is/posts/feeding-7-billion-people-and-counting-how-can-we-lose-and-waste-less-food -- WASTED FOOD
+http://www.impactlab.net/2013/08/08/when-unemployment-rises-among-men-domestic-violence-falls/ -- Unemployment vs domestic violence
+http://www.businessinsider.com/how-homeless-people-use-technology-2013-8 -- The homeless and technology
+https://developer.foursquare.com/overview/samples -- FOURSQUARE API
+http://www.number27.org/assets/work/extras/maps/starbucks-big.jpg
+http://www.number27.org/assets/work/extras/maps/weapons-big.jpg
+http://wheredoesmymoneygo.org/dailybread.html
+http://datahub.io/
+http://opencorporates.com/
+http://www.census.gov/geo/maps-data/
+http://www.healthdata.gov/dataset/search
+http://catalog-next.data.gov/dataset
+http://catalog.data.gov/dataset
+http://techslides.com/making-maps-from-cia-world-factbook/
+https://www.cia.gov/library/publications/the-world-factbook/
+http://www.ucrdatatool.gov/Search/Crime/Local/RunCrimeOneYearofData.cfm -- UCR 2011 CRIME TABLE FOR CA
+http://www.nass.usda.gov/Statistics_by_State/index.asp
+http://nces.ed.gov/ccd/pub_snf_report.asp -- School enrollment figures
+http://www.bea.gov/iTable/iTable.cfm?reqid=70&step=1#reqid=70&step=1
+http://www.bea.gov/newsreleases/regional/spi/sqpi_newsrelease.htm -- State personal income (SPI) Q1 2013
+http://www.bea.gov/newsreleases/regional/spi/2013/pdf/spi0613.pdf -- SPI 2013 full tables
+http://www.bea.gov/newsreleases/regional/gdp_state/gsp_newsrelease.htm -- State percent change in real GDP in 2012
+http://www.bea.gov/regional/downloadzip.cfm -- Regional economic accounts
+http://www.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=1#reqid=70&step=1&isuri=1 -- GDP & Personal Income
+http://www.fedstats.gov/qf/
+http://www.census.gov/2010census/
+http://www.usglc.org/
+
+
+http://sanfrancisco.crimespotting.org/api
+http://oakland.crimespotting.org/api
+
+
+http://blogs.msdn.com/b/shishirs/archive/2012/03/17/some-excellent-open-data-sources.aspx
+
+
+https://data.cms.gov/Medicare/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3
+
+
+
+OCEAN DATA
+https://marinexplore.com/
+http://www.oscar.noaa.gov/
+http://icoads.noaa.gov/
+http://www.nwfsc.noaa.gov/research/divisions/fe/estuarine/oeip/ka-hydrography-zoo-ichthyoplankton.cfm
+http://www.myocean.eu/
+http://www.lodyc.jussieu.fr/~aumont/OPA_model.html
+http://blog.marinexplore.com/launching-wave-wind-and-currents-data-opendap-bridge-and-new-filter/
+http://ferret.wrc.noaa.gov/Ferret/
+http://www.giss.nasa.gov/tools/panoply/
+http://blog.marinexplore.com/15-beautiful-ocean-data-visualizations/
+
+
+
+
+TOOLS
+http://colorbrewer2.org/ -- MAP COLORINGS (up to 9-color mono-hue)
+http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
+https://github.com/propublica/stateface -- Stateface font
+http://kartograph.org/about/kartograph.py/ -- Python lib to generate SVG maps from ESRI shape files
+https://github.com/project-open-data/db-to-api
+http://www.allxnet.com/2012/03/5-fantastic-free-infographic-vector-kits/
+http://nvd3.org/ -- d3-based
+http://tenxer.github.io/xcharts/ -- ?? d3-based ??
+http://dimplejs.org/ -- d3-based
+https://github.com/trifacta/vega/wiki -- d3-based
+https://github.com/mbostock/topojson
+http://colorbrewer2.org/ - Color Brewer for cartography
+https://github.com/desandro/imagesloaded -- Image lazy-load
+https://github.com/jsoma/tabletop -- Makes Google Spreadsheets accessible through JavaScript
+http://leafletjs.com/ -- Open-source JS lib for mobile-friendly, interactive maps
+https://github.com/germsvel/TwitterVis
+http://schoolofdata.org/handbook/courses/geocoding/
+http://schoolofdata.org/handbook/courses/scraping/ -- Site scraping
+http://emberjs.com/about/
+http://schoolofdata.org/handbook/recipes/liberating-html-tables/
+http://lethain.com/an-introduction-to-compassionate-screenscraping/
+http://www.datasciencetoolkit.org/ -- Reverse Geocoding, geocoding, geodict, coords to political areas, etc
+http://www.datasciencetoolkit.org/developerdocs -- DataScienceToollKit (DSTK) Docs
+http://blog.ouseful.info/2008/10/14/data-scraping-wikipedia-with-google-spreadsheets/ -- Data scraping web pages
+http://blog.ouseful.info/2010/01/19/using-google-spreadsheets-like-a-database-the-query-formula/ - Query via Google Spreadsheets
+http://blog.ouseful.info/2009/05/18/using-google-spreadsheets-as-a-databace-with-the-google-visualisation-api-query-language/
+https://developers.google.com/chart/interactive/docs/querylanguage?csw=1
+http://schoolofdata.org/handbook/courses/extracting-data-from-pdf/ -- Scraping PDFs
+http://www.propublica.org/nerds/item/turning-pdfs-to-text-doc-dollars-guide -- Scraping PDFs
+http://unpaper.berlios.de/
+https://scraperwiki.com/ -- ScraperWiki SAAS
+http://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data -- Scraping for Journalism
+http://openrefine.org/ -- Open-source data cleaner
+http://www.propublica.org/nerds/item/using-google-refine-for-data-cleaning
+https://github.com/propublica/transcribable - crowdsource document transcribing
+http://propublica.github.io/table-fu/ -- Ruby gem: csv to table and manipulation
+https://github.com/propublica/upton -- Upton Web scraping wrapper over Nokogiri
+http://www.propublica.org/nerds/item/upton-a-web-scraping-framework -- Upton
+http://www.propublica.org/nerds/item/scraping-websites -- Scraping data from HTML
+http://www.propublica.org/nerds/item/image-to-text-ocr-and-imagemagick -- Pull data from an image-only PDF
+http://pyvideo.org/video/256/pycon-2010--scrape-the-web--strategies-for-progra
+http://hughstimson.org/2012/04/16/playlist-data-mining/
+http://schoolofdata.org/handbook/courses/geocoding/
+https://github.com/thejefflarson/pdf-splitter -- PDF Splitter (Cocoa)
+http://prag.ma/code/d3-cartogram/ -- Animated cartograms (state boundary, etc)
+http://prag.ma/code/d3-cartogram/cartogram.js -- Cartogram.js
