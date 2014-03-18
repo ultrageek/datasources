@@ -108,17 +108,15 @@ http://www.fedstats.gov/qf/
 http://www.census.gov/2010census/
 http://www.usglc.org/
 
-
 http://sanfrancisco.crimespotting.org/api
 http://oakland.crimespotting.org/api
 
-
 http://blogs.msdn.com/b/shishirs/archive/2012/03/17/some-excellent-open-data-sources.aspx
-
 
 https://data.cms.gov/Medicare/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3
 
-
+https://www.facebook.com/EarthWindMap
+http://www.naturalearthdata.com/
 
 OCEAN DATA
 https://marinexplore.com/
