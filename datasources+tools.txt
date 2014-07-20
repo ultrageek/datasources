@@ -134,6 +134,7 @@ http://blog.marinexplore.com/15-beautiful-ocean-data-visualizations/
 
 
 TOOLS
+http://www.googleguide.com/advanced_operators_reference.html
 http://colorbrewer2.org/ -- MAP COLORINGS (up to 9-color mono-hue)
 http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
 https://github.com/propublica/stateface -- Stateface font
