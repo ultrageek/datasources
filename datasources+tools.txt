@@ -1,3 +1,15 @@
+Geographic Boundary Data
+
+Country boundaries; U.S. state and county boundary files (lat/long points)
+  -https://github.com/johan/world.geo.json
+
+Other boundary files:
+USA TopoJSON:
+  -https://github.com/mbostock/us-atlas
+USA zipcode boundary data:
+  -https://www.gaslampmedia.com/download-zip-code-latitude-longitude-city-state-county-csv/
+
+
 General Data
 
 http://californiawatch.org/datacenter
