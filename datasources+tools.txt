@@ -24,7 +24,7 @@ http://datacatalog.worldbank.org/
 http://multimedia.journalism.berkeley.edu/tutorials/databases-of-statistical-information/census/ -- Has list
 http://www.irs.gov/uac/SOI-Tax-Stats-County-to-County-Migration-Data-Files -- US County-to-County migration
 http://www.irs.gov/uac/SOI-Tax-Stats-State-to-State-Migration-Database-Files -- US State-to-State migration
-http://www.dof.ca.gov/research/demographic/ -- Cali Dept of Finance demographics
+http://www.dof.ca.gov/research/demographic/ -- California Dept. of Finance demographics
 http://www.bayareacensus.ca.gov/ -- Bay Area Census
 http://data.police.uk/
 http://www.coopercenter.org/demographics
