@@ -1,3 +1,20 @@
+
+Airline/ Aviation/ Flight Data
+US Airline Delay Data 2004 - 2019 - Harvard Dataverse -- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IUVNCX
+OST_R | BTS | Transtats -- https://www.transtats.bts.gov/homedrillchart.asp
+OST_R | BTS | Title from h2 -- https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
+Aviation Data & Statistics | Federal Aviation Administration -- https://www.faa.gov/data_research/aviation_data_statistics
+Flight Delay API – Current & Historical Cancellations and Delays - Aviation database and API -- https://aviation-edge.com/flight-delay-api/?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNlN_pRrTgmyzGoTybcQadcG5lAdmU7YHEmOrRf_JLTQjDulH9m06pEaAs_REALw_wcB
+
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IUVNCX (US Airline Delay Data 2004 - 2019 - Harvard Dataverse) (971946979)
+https://www.transtats.bts.gov/homedrillchart.asp (OST_R | BTS | Transtats) (971946955)
+https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp (OST_R | BTS | Title from h2) (971947025)
+https://www.faa.gov/data_research/aviation_data_statistics (Aviation Data & Statistics | Federal Aviation Administration) (971946995)
+https://aviation-edge.com/flight-delay-api/?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNlN_pRrTgmyzGoTybcQadcG5lAdmU7YHEmOrRf_JLTQjDulH9m06pEaAs_REALw_wcB (Flight Delay API – Current & Historical Cancellations and Delays - Aviation database and API) (971946949)
+
+
+
 Geographic Boundary Data
 
 Country boundaries; U.S. state and county boundary files (lat/long points)
